@@ -14,4 +14,4 @@
 
 ![snake gif](https://github.com/vasgodutyal/vasgodutyal/blob/output/github-contribution-grid-snake.gif)
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasgodutyal&show_icons=true&locale=en&layout=compact" alt="vasgodutyal" /></p>
