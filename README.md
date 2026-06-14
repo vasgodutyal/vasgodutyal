@@ -24,10 +24,8 @@ public class Alican : Developer
 }
 ```
 
-- 🏢 IGA İstanbul Havalimanı'nda kurumsal web uygulamaları geliştiriyorum
 - 🧱 **Clean Architecture**, **CQRS/MediatR** ve **EF Core** ile çalışıyorum
 - 📱 Yan tarafta **Flutter** ile mobil uygulamalar yazıyorum
-- 🎓 Yüksek lisans tezim: ASP.NET Core'da senkron/asenkron programlama modellerinin yüksek eşzamanlılık altındaki performansı
 - 💬 .NET, mimari ve performans konularında konuşmaya her zaman varım
 
 <br/>
