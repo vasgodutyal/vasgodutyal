@@ -20,11 +20,7 @@
 public class Alican : Developer
 {
     public string Role      => "Senior Software Engineer";
-    public string Company   => "IGA Istanbul Airport";
-    public string Location  => "İstanbul, Türkiye 🇹🇷";
-    public string[] Focus   => new[] { "ASP.NET Core", "Clean Architecture", "CQRS / MediatR", "EF Core" };
-    public string Learning  => "Async vs Sync performance @ high concurrency (MSc Thesis)";
-    public string FunFact   => "Havalimanı sistemlerini kodluyorum ✈️";
+   
 }
 ```
 
