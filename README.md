@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a192f,100:bb2acf&amp;height=200&amp;section=header&amp;text=Alican%20Dastan&amp;fontColor=ffffff&amp;fontSize=50&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Senior%20Software%20Engineer%20|%20.NET%20and%20Flutter%20Developer&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
 <a href="https://github.com/vasgodutyal">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=BB2ACF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Senior+.NET+Developer+%40+IGA+Airport;Clean+Architecture+%7C+CQRS+%7C+MediatR;ASP.NET+Core+%E2%80%A2+EF+Core+%E2%80%A2+Flutter;AI-assisted+development+%F0%9F%A4%96;Always+building+something+%E2%9C%88%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=BB2ACF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Senior+.NET+Developer+%40t;Clean+Architecture+%7C+CQRS+%7C+MediatR;ASP.NET+Core+%E2%80%A2+EF+Core+%E2%80%A2+Flutter;AI-assisted+development+%F0%9F%A4%96;Always+building+something+%E2%9C%88%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 </div>
